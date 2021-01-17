@@ -9,17 +9,15 @@
 # --------------------------
 title: Sarthak Tiwari                          # the main title
 
-tagline: Software Developer, Product Manager and an avid reader.    # it will display as the sub-title
+tagline: Software Developer and an avid reader.    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A software developer striving for perfect productivity.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://www.sarthaktiwari.xyz'
 
-author: your_full_name                  # change to your full name
+author: Sarthak Tiwari                  # change to your full name
 
 github:
   username: tiwarisarthak             # change to your github username
@@ -28,8 +26,8 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Sarthak Tiwari                 # it will shows as the copyright owner in Footer
+  email: sarthaktiwari306@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -38,7 +36,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: zeKky5cG-BYrABSaXpnKfk5G8wKYdRY6C0bjXlhTUbk # change to your verification string
 # --------------------------
 
 
@@ -47,7 +45,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -77,7 +75,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
