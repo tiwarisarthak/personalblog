@@ -23,18 +23,20 @@ github:
   username: tiwarisarthak             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: _sarthaktiwari           # change to your twitter username
 
+linkedin:
+  username: sarthak-tiwari-b900bb99
 social:
   name: Sarthak Tiwari                 # it will shows as the copyright owner in Footer
   email: sarthaktiwari306@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/_sarthaktiwari      # change to your twitter homepage
+    - https://github.com/tiwarisarthak       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sarthak-tiwari-b900bb99
 
 google_site_verification: zeKky5cG-BYrABSaXpnKfk5G8wKYdRY6C0bjXlhTUbk # change to your verification string
 # --------------------------
