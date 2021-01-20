@@ -23,4 +23,4 @@ Gone are the days when you could take your own time to churn out the perfect pro
 
 From my four years in industry working for big tech, four years of college building my own products, eight years of contributing to open source or my little experiments since I started coding at the age of 8, I always try to achieve the fine balance between stakeholders, team and the experience you gain (although the 8 year old me didn't knew the term "stakeholder" even when it understood its value in a project).
 
-I'm an avid reader. I enjoy science fiction and contemporary. A heavy talker on coffee and a quiet person in dinners. I love beaches but I hate summers. I'm always open for a good conversation, drop a line if you have any questions!
+I'm an avid reader. I enjoy science fiction and contemporary. A heavy talker over coffee and a quiet person at dinners. I love beaches but I hate summers. I'm always open for a good conversation, drop a line if you have any questions!
