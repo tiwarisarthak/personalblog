@@ -1,5 +1,5 @@
 ---
-title: Reading Challenge 2021
+title: Animal Farm Review
 author: Sarthak Tiwari
 date: 2021-01-18 19:35:00 +0530
 categories: [Reading, ]
