@@ -12,4 +12,4 @@ published: true
 
 An amazing book by all standards. Orwell obviously does an amazing job in laying out tough to understand principles in a straight forward manner.
 
-Next up, I will be reading **Pyre by Perumal Murugan** again. I keep going back to this small book from time to time and I think it is time to read it again.
+Next up, I will be reading **Pyre by Perumal Murugan**.
