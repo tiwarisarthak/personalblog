@@ -1,7 +1,7 @@
 ---
 title: Bye-bye Syncron
 author: Sarthak Tiwari
-date: 2021-10-30 11:35:00 +0530
+date: 2021-12-30 11:35:00 +0530
 categories: [Personal, ]
 tags: [Career]
 pin: false
