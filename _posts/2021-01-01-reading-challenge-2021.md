@@ -4,7 +4,7 @@ author: Sarthak Tiwari
 date: 2021-01-01 20:55:00 +0530
 categories: [Reading, ]
 tags: [Reading-challenge]
-pin: true
+pin: false
 published: true
 ---
 
