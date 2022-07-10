@@ -12,15 +12,12 @@ order: 1
 
 ### Hello 👋🏽
 
+I'm a software engineer based out of Bangalore. Currently, I'm working at Amazon where I build and maintain orchestration solutions that make it easy for devlopers to iterate and build faster without depending on other teams.
 
-Welcome to my little space online! 
+I specialize in making distributed architecture that can handle scale.
 
-I'm a software engineer with a passion for completing projects.🚀 
+I have a coding background of 16 years (started when I was 10), out of which ten years are in products used by actual clients and five with industry leading products.
 
-Be it this small blog or cross team features in a legacy code base, I strive for completion in the minimum time possible where you can satisfy all stakeholders.
+I have worked in multiple roles across multiple teams and I like to wear different hats as and when the situation demands.
 
-Gone are the days when you could take your own time to churn out the perfect product for the problems you tackle. The industry today demands near perfection in the most tight deadlines possible. Mastering this process is key as you can't let your team burnout but you can't let time be wasted and it starts at an individual managerial level, something I'm trying to incorporate in areas I impact.
-
-From my four years in industry working for big tech, four years of college building my own products, eight years of contributing to open source or my little experiments since I started coding at the age of 8, I always try to achieve the fine balance between stakeholders, team and the experience you gain (although the 8 year old me didn't knew the term "stakeholder" even when it understood its value in a project).
-
-I'm an avid reader. I enjoy science fiction and contemporary. A heavy talker over coffee and a quiet person at dinners. I love beaches but I hate summers. I'm always open for a good conversation, drop a line if you have any questions!
+If you want to talk, you can drop me an email at <sarthaktiwari306@gmail.com>.
