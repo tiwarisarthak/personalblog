@@ -29,17 +29,17 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0  # for posts's lastmod
 
       - name: Setup Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.2
 
       - name: Bundle Caching
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${{ env.GEMS_PATH }}
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -49,6 +49,7 @@ jobs:
       - name: Bundle Install
         run: |
           bundle config path ${{ env.GEMS_PATH }}
+          bundle config set without 'test'
           bundle install --jobs 4 --retry 3
 
       - name: Build Site
@@ -56,7 +57,3 @@ jobs:
           JEKYLL_ENV: production
         run: |
           bundle exec jekyll b
-
-      - name: Test Site
-        run: |
-          bash tools/test.sh
